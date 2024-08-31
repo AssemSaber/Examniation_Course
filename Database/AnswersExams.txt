@@ -1,0 +1,5 @@
+Exam2,database,a,a
+Exam2,database,d,c
+exaa,database,c,d
+exam3,database,a,a
+exam5,database,d,a,d

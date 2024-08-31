@@ -1,0 +1,11 @@
+Exam2,database,10,hoouse?,large?,small,medium,non
+Exam2,database,10,laptop?,expensive,cheap,non,medium
+Exam2,database,20,team?,nice,good,well,bad
+Exam2,database,20,your mind ,80p,22p,99p,0p
+exaa,database,33,fuchk,1,2,3,4
+exaa,database,33,ready ,a,3,23,43
+exam3,database,30,phone?,mac,android,non,both
+exam3,database,30,sky?,blue,green,black,non
+exam5,database,50,clock1?,1pm,2am,3am,4pm
+exam5,database,50,sky?,blue,green,black,non
+exam5,database,50,no of eyes?,1,2,3,4
